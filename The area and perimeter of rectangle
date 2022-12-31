@@ -1,0 +1,8 @@
+Public class HelloWorld {
+public static void main(String[] args) {
+double Width=7.5;
+double Height=8.5;
+double area=Width*Height;
+System.out.print(&quot;area is&quot; +Width+&quot;*&quot;+Height+&quot;=&quot; +area);
+double Perimeter =2*(Width*Height);
+System.out.print(&quot;perimeter is 2*(&quot; + width + &quot;+&quot; + height + &quot;) = &quot; + perimeter);
